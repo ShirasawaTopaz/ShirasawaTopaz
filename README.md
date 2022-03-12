@@ -5,7 +5,6 @@
 # 📕 ❀ Languages ❀
 
 <code><img height="30" width="30" src="rust.png"></code>
-<code><img height="30" width="30" src="cpp.png"></code>
 <code><img height="30" width="30" src="java.png"></code>
 
 # 📃 〄 Analysis 〄
