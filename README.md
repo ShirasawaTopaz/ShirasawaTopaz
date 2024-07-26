@@ -2,10 +2,16 @@
 
 # Shirasawa
 
+<p align="center">
+    <img alt="Profile View" src="https://komarev.com/ghpvc/?username=ShirasawaTopaz&style=flat-square"/>
+</p>
+夢の底でもがくのなら， この夜をいっそ喰らってしまいたい。
+
 # 📕 ❀ Languages ❀
 
-<code><img height="30" width="30" src="rust.png"></code>
-<code><img height="30" width="30" src="java.png"></code>
+Rust  
+C++  
+Go  
 
 # 📃 〄 Analysis 〄
 
