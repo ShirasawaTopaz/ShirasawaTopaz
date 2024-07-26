@@ -4,7 +4,6 @@
 
 <p align="center">
     <img alt="Profile View" src="https://komarev.com/ghpvc/?username=ShirasawaTopaz&style=flat-square"/>  
-
     
     夢の底でもがくのなら， この夜をいっそ喰らってしまいたい。
 </p>
@@ -24,9 +23,7 @@ Go
 
 # 📞 ❅ Contact ❅
 
-<p align="center">
-    ```text
-    Email: cpointerz34898@gmail.com
-    Github: @ShirasawaTopaz
-    ```
-</p>
+```text
+Email: cpointerz34898@gmail.com
+Github: @ShirasawaTopaz
+```
