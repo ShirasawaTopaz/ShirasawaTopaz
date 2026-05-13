@@ -3,7 +3,7 @@
 # Shirasawa
 
 <p align="center">
-    夢の底でもがくのなら， この夜をいっそ喰らってしまいたい。
+    Minori🥰🥰🥰
 </p>
 
 
@@ -22,6 +22,7 @@ Go
 # 📞 ❅ Contact ❅
 
 ```text
+QQ: 3489840593
 Email: cpointerz34898@gmail.com
 Github: @ShirasawaTopaz
 ```
